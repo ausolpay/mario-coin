@@ -1,0 +1,11 @@
+    {
+      "chainId": 101,
+      "address": "6X83QdJF8QznDjkP1cGAQT9fZa1DRuBNACUjhTPMHd5r",
+      "symbol": "MRIO",
+      "name": "MarioCoin",
+      "decimals": 8,
+      "logoURI": "https://github.com/ausolpay/mario-coin/blob/main/d1dgjkl-7270c870-436e-4356-a554-39270117ef2e.jpg",
+      "tags": [
+        "social-token"
+      ]
+    }
