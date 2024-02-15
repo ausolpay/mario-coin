@@ -1,6 +1,14 @@
 {
-  "name": "MarioCoin",
-  "symbol": "MRIO",
-  "description": "A plumber gone rogue in the blockchain jungle, our hero has bagged a hefty stash of MarioCoin for unclogging the digital pipes. With liquidity now in full swing, let's boost his bounty by turning those drips into waves!",
-  "image": "https://raw.githubusercontent.com/ausolpay/mario-coin/main/MRIO_logo.png"
-}
+      "name": "MarioCoin",
+      "symbol": "MRIO",
+      "image": "https://raw.githubusercontent.com/ausolpay/mario-coin/main/MRIO_logo.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "description": "A plumber gone rogue in the blockchain jungle, our hero has bagged a hefty stash of MarioCoin for unclogging the digital pipes. With liquidity now in full swing, let's boost his bounty by turning those drips into waves!",
+        "website": "https://mariocoinmrio.com/"
+      }
+    }
+
+
